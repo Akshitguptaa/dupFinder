@@ -1,0 +1,7 @@
+setup.py
+dupfinder.egg-info/PKG-INFO
+dupfinder.egg-info/SOURCES.txt
+dupfinder.egg-info/dependency_links.txt
+dupfinder.egg-info/top_level.txt
+package/__init__.py
+package/dupfinder.py
